@@ -1,0 +1,2708 @@
+[
+    {
+        "Naslov": "GAMING PC Ryzen 5 16GB DDR4 RX 6600 XT 8GB 512GB NVMe računalnik",
+        "Cena (EUR)": 400.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RX 6600",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "512GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/gaming-pc-ryzen-5-16gb-ddr4-rx-6600-xt-8gb-512gb-nvme-oglas-15776420"
+    },
+    {
+        "Naslov": "GAMING PC / i5 8400 / GTX 1070 8GB / 32GB RAM / 250GB SSD / 1TB HDD",
+        "Cena (EUR)": 400.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": "GTX 1070",
+            "RAM": "32GB RAM",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/gaming-pc-i5-8400-gtx-1070-8gb-32gb-ram-250gb-ssd-1tb-hdd-oglas-15802988"
+    },
+    {
+        "Naslov": "GAMING PC / i7 6700K / GTX 1650 / 16GB RAM / 250GB SSD / 1000GB HDD",
+        "Cena (EUR)": 300.0,
+        "Komponente": {
+            "CPU": "I7 6700K",
+            "GPU": "GTX 1650",
+            "RAM": "16GB RAM",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i7/gaming-pc-i7-6700k-gtx-1650-16gb-ram-250gb-ssd-1000gb-hdd-oglas-15782120"
+    },
+    {
+        "Naslov": "Gaming računalnik HP",
+        "Cena (EUR)": 500.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": null,
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/gaming-racunalnik-hp-oglas-15794660"
+    },
+    {
+        "Naslov": "Gaming računalnik",
+        "Cena (EUR)": 600.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 5700X",
+            "GPU": "RTX 3060",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/gaming-racunalnik-oglas-15783551"
+    },
+    {
+        "Naslov": "Mini pc ryzen 7 8745hs, 32gb ddr5 5600, 1tb pcie 4.0, radeon 780m",
+        "Cena (EUR)": 500.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 8745",
+            "GPU": "RTX 3070",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/mini-pc-ryzen-7-8745hs-32gb-ddr5-5600-1tb-pcie-4.0-radeon-780m-oglas-15694882"
+    },
+    {
+        "Naslov": "Gaming računalnik- AMD ryzen 5 3600/ 16gb ddr4/ 4gb grafa",
+        "Cena (EUR)": 120.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "RTX 3070",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/gaming-racunalnik-amd-ryzen-5-3600-16gb-ddr4-4gb-grafa-oglas-15804856"
+    },
+    {
+        "Naslov": "Gaming PC i5 10400f/16ram/RX 6600 8g/Nov CPU/Nov coller/",
+        "Cena (EUR)": 590.0,
+        "Komponente": {
+            "CPU": "RYZEN7 5700X",
+            "GPU": "RTX 2060",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/gaming-pc-i5-10400f-16ram-rx-6600-8g-nov-cpu-nov-coller-oglas-15590618"
+    },
+    {
+        "Naslov": "Računalnik i5 8500/16ram/Gtx 1070Ti 8g/Nov coller RGB",
+        "Cena (EUR)": 390.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "RTX3070",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/racunalnik-i5-8500-16ram-gtx-1070ti-8g-nov-coller-rgb-oglas-15590638"
+    },
+    {
+        "Naslov": "PC PLUS ACUS RAČUNALNIK, TIPKOVNICA IN MIŠKA VSE DELUJE CENA 35€",
+        "Cena (EUR)": 35.0,
+        "Komponente": {
+            "CPU": "I5 3470",
+            "GPU": "RX2012",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/pc-plus-acus-racunalnik-tipkovnica-in-miska-vse-deluje-cena-35-oglas-15251848"
+    },
+    {
+        "Naslov": "Asus Nvidia GeForce RTX 3060ti + NZXT H7 + Corsair RM6500x",
+        "Cena (EUR)": 430.0,
+        "Komponente": {
+            "CPU": "I3 4170",
+            "GPU": "RTX 3060T",
+            "RAM": "16GB RAM",
+            "SSD/HDD": "8GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/asus-nvidia-geforce-rtx-3060ti-nzxt-h7-corsair-rm6500x-oglas-15804772"
+    },
+    {
+        "Naslov": "Namizni računalnik",
+        "Cena (EUR)": 200.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "GTX 1060",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i7/namizni-racunalnik-oglas-14029792"
+    },
+    {
+        "Naslov": "Namizni računalniki in monitirji",
+        "Cena (EUR)": 1.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "2GB DDR2",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/namizni-racunalniki-in-monitirji-oglas-15694549"
+    },
+    {
+        "Naslov": "GAMING SETUP",
+        "Cena (EUR)": 480.0,
+        "Komponente": {
+            "CPU": "I7 7700",
+            "GPU": "GTX 1650",
+            "RAM": "8GB DDR3",
+            "SSD/HDD": "466 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/gaming-setup-oglas-15804705"
+    },
+    {
+        "Naslov": "ASUS VivoPC VM42, Celeron 2957U, 6GB RAM, 500GB disk",
+        "Cena (EUR)": 40.0,
+        "Komponente": {
+            "CPU": "CELERON 2957",
+            "GPU": "RTX 2060",
+            "RAM": "6GB DDR3",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/nettopi-namizni-racunalniki/asus-vivopc-vm42-oglas-15727248"
+    },
+    {
+        "Naslov": "Lenovo M93p, i5-4570, 16GB RAM, 240 GB SSD, Win 11",
+        "Cena (EUR)": 60.0,
+        "Komponente": {
+            "CPU": "I5 2500",
+            "GPU": null,
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-thinkcentre-m93p-oglas-15728418"
+    },
+    {
+        "Naslov": "Majhen kompakten PC z Intel i5-6500 CPU",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 7800X",
+            "GPU": "RX 6800",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/majhen-kompakten-pc-z-intel-i5-cpu-oglas-10953431"
+    },
+    {
+        "Naslov": "Prodam HP ProDesk 400 G1 MT CPU i7",
+        "Cena (EUR)": 110.0,
+        "Komponente": {
+            "CPU": "I5 4590",
+            "GPU": "GTX 1050",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/prodam-hp-prodesk-g1-mt-cpu-i3-oglas-14731894"
+    },
+    {
+        "Naslov": "Prodam odlično ohranjen mini računalnik I5-6500",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 4080",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/prodam-odlicno-ohranjen-mini-racunalnik-z-22-incnim-monitorjem-oglas-13678215"
+    },
+    {
+        "Naslov": "Lenovo m700 i5-6400T mini PC",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "I5 7400",
+            "GPU": "RX550",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-m700-i5-6400t-mini-pc-oglas-14708706"
+    },
+    {
+        "Naslov": "GAMING PC Ryzen 5 16GB DDR4 RX 6600 XT 8GB 512GB NVMe računalnik",
+        "Cena (EUR)": 400.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RX 6600",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "512GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/gaming-pc-ryzen-5-16gb-ddr4-rx-6600-xt-8gb-512gb-nvme-oglas-15776420"
+    },
+    {
+        "Naslov": "iMac 27\" (Late 2009) – Odličen zaslon / Target Display Mode",
+        "Cena (EUR)": 120.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16GB RAM",
+            "SSD/HDD": "1 TB HDD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/imac-27-late-2009-odlicen-zaslon-target-display-mode-oglas-15804474"
+    },
+    {
+        "Naslov": "Anni Gamerski racunalnik",
+        "Cena (EUR)": 600.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 5600",
+            "GPU": "RTX 3050",
+            "RAM": "64GB DDR5",
+            "SSD/HDD": "512 GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/anni-gamerski-racunalnik-oglas-15804431"
+    },
+    {
+        "Naslov": "PC - Gaming Računalnik",
+        "Cena (EUR)": 330.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 3070",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalnik-oglas-15635354"
+    },
+    {
+        "Naslov": "Monitor za računalnik LG s tipkovnico",
+        "Cena (EUR)": 25.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "32GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalnik-lg-tipkovnico-oglas-14837640"
+    },
+    {
+        "Naslov": "AIO Apple iMac 19.1 (early 2019) 27″ 5K Retina Intel i9-9.gen.",
+        "Cena (EUR)": 1499.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX 2070",
+            "RAM": "32 GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/aio-apple-imac-19.1-early-2019-27-5k-retina-intel-i9-9-gen-oglas-15804240"
+    },
+    {
+        "Naslov": "Gaming 8 jedrni AMD / 16GB RAM, RX 480 8GB, SSD / pripravljen za igre",
+        "Cena (EUR)": 295.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 3050",
+            "RAM": "8 GB DDR5",
+            "SSD/HDD": "512 GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-phenom/8-jederni-amd-gaming-namizni-racunalnik-oglas-15638555"
+    },
+    {
+        "Naslov": "Dell OptiPlex 7070 Ultra Intel i5-8.gen., 16 GB RAM, 256 GB SSD",
+        "Cena (EUR)": 599.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX6000",
+            "RAM": "16 GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/dell-optiplex-7070-ultra-intel-i5-8-gen-16-gb-ram-256-gb-ssd-oglas-15804192"
+    },
+    {
+        "Naslov": "MINI RAČUNALNIK HP ELITEDESK INTEL i5, 16GB RAM, HDMI, 3x DP",
+        "Cena (EUR)": 200.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/mini-racunalnik-hp-elitedesk-intel-i5-oglas-15263156"
+    },
+    {
+        "Naslov": "HP EliteDesk 800 G4 Intel i5-8.gen., 8 GB RAM, 256 GB SSD, Win 11 Pro",
+        "Cena (EUR)": 299.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX2060",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-elitedesk-800-g4-intel-i5-8-gen-8-gb-ram-256-gb-ssd-win-11-pro-oglas-15804190"
+    },
+    {
+        "Naslov": "Dell OptiPlex 7760 \"27 palcev\"",
+        "Cena (EUR)": 650.0,
+        "Komponente": {
+            "CPU": "I7 3770",
+            "GPU": "RTX6000",
+            "RAM": "8GB DDR3",
+            "SSD/HDD": "512 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/dell-optiplex-7760-27-palcev-oglas-15804128"
+    },
+    {
+        "Naslov": "Prodam workstation PC 128GB RAM",
+        "Cena (EUR)": 1350.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 3700X",
+            "GPU": "RTX 3070",
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/prodam-workstation-pc-128gb-ram-oglas-15804114"
+    },
+    {
+        "Naslov": "Gamerski računalnik 1080TI 11GB",
+        "Cena (EUR)": 400.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 9700X",
+            "GPU": "RTX 3070",
+            "RAM": "16 GB DDR4",
+            "SSD/HDD": "60GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/gamerski-racunalnik-1080ti-11gb-oglas-15804095"
+    },
+    {
+        "Naslov": "Mac Mini (M1, 8GB RAM, 256GB SSD) 2020",
+        "Cena (EUR)": 350.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/mac-mini-m1-8gb-ram-256gb-ssd-2020-oglas-15804069"
+    },
+    {
+        "Naslov": "Lenovo Thinkcentre M710s SFF i5 6.gen|256GB|8GB|WIN11",
+        "Cena (EUR)": 140.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": "RX550",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-thinkcentre-m710s-sff-i5-6-gen-256gb-8gb-win11-oglas-13635463"
+    },
+    {
+        "Naslov": "HP Prodesk 600 G4 SFF i3 9.gen,480GB,16GB,GT1030 WIN11 PRO",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": "RYZEN 3 4100",
+            "GPU": "RX 6500",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "480GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-600-g4-sff-i5-8-gen-nvme-8gb-win11-pro-oglas-11802357"
+    },
+    {
+        "Naslov": "Dell OptiPlex 3280 AIO – 21″ i5 10.gen, 256GB Nvme, 8GB, W11",
+        "Cena (EUR)": 450.0,
+        "Komponente": {
+            "CPU": "RYZEN 3 4100",
+            "GPU": "RX 6500",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/dell-optiplex-3280-aio-21-i5-10-gen-256gb-nvme-8gb-w11-oglas-15396496"
+    },
+    {
+        "Naslov": "Gaming PC HP OMEN",
+        "Cena (EUR)": 699.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 5800X",
+            "GPU": "RTX3060",
+            "RAM": "8GB DDR3",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/gaming-pc-hp-omen-oglas-15784339"
+    },
+    {
+        "Naslov": "Mini Zver Ryzen Gaming PC",
+        "Cena (EUR)": 799.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 9600",
+            "GPU": "RTX2080",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "4GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/mini-zver-ryzen-gaming-pc-oglas-15760306"
+    },
+    {
+        "Naslov": "HP Gaming OMEN ( ryzen,RTX5070)",
+        "Cena (EUR)": 1149.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": "RTX5070",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-gaming-omen-ryzen-rtx5070-oglas-15760302"
+    },
+    {
+        "Naslov": "HP envy Phoenix Gaming PC i5/16GB/GTX 4GB/SSD 500GB + HDD",
+        "Cena (EUR)": 180.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "GTX 1050T",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/hp-envy-phoenix-gaming-pc-i5-16gb-gtx-4gb-ssd-500gb-hdd-oglas-15422686"
+    },
+    {
+        "Naslov": "Gaming Pc AMD Ryzen5,16GB DDR4,GTX1650 4GB, NVMe + HDD",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2400",
+            "GPU": "RTX 3080",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/gaming-pc-amd-ryzen5.16gb-ddr4-gtx1650-4gb-nvme-hdd-oglas-15419343"
+    },
+    {
+        "Naslov": "Gaming PC intel core i5 16GB RAM Nvidia GTX 1050Ti 4GB 256GB SSD",
+        "Cena (EUR)": 200.0,
+        "Komponente": {
+            "CPU": "I5 3470",
+            "GPU": "RTX 5070",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/gaming-pc-tarox-intel-i5-8gb-ram-amd-radeon-rx-570-ssd-oglas-14748454"
+    },
+    {
+        "Naslov": "Računalnik i3-4130",
+        "Cena (EUR)": 100.0,
+        "Komponente": {
+            "CPU": "I3 7100",
+            "GPU": null,
+            "RAM": "4 GB DDR3",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/racunalnik-i3-4130-oglas-14173337"
+    },
+    {
+        "Naslov": "NVIDIA 4060 Ryzen 5 3600X RGB Gaming Namizni Računalnik",
+        "Cena (EUR)": 590.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600X",
+            "GPU": "RTX 4060",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "500 GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/nvidia-4060-ryzen-5-3600x-rgb-gaming-namizni-racunalnik-oglas-15803386"
+    },
+    {
+        "Naslov": "HP ProDesk 490 G2 MT (Win11 Pro+Office, i5, 16GB RAM, 240SSD, 1TBHDD)",
+        "Cena (EUR)": 240.0,
+        "Komponente": {
+            "CPU": "RYZEN 3 4100",
+            "GPU": "RX 6500",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-490-g2-mt-win11-pro-office-i5-32gb-ram-500ssd-1tbhdd-oglas-14172627"
+    },
+    {
+        "Naslov": "Dell Optiplex 3010 (Win11+Office, i3, 8/16GB RAM, SSD, HDD)",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "I7 3770",
+            "GPU": null,
+            "RAM": "8GB DDR3",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/dell-optiplex-3010-win11-office-i3-8gb-ram-ssd-hdd-oglas-14172479"
+    },
+    {
+        "Naslov": "HP ProDesk 600 G3 mini | i5-6500T | 32GB RAM | 1TB SSD | Win 11+Office",
+        "Cena (EUR)": 390.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": null,
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-600-g3-mini-i5-6500t-32gb-ram-1tb-ssd-win-11-office-oglas-14788227"
+    },
+    {
+        "Naslov": "HP ProDesk 600 G3 | i5-6500 | 32GB RAM | 1TB SSD | Win 11 + Office",
+        "Cena (EUR)": 360.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX2060",
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-600-g3-i5-6500-32gb-ram-1tb-ssd-win-11-office-oglas-14771104"
+    },
+    {
+        "Naslov": "HP ProDesk 400 G2 MT (Win11 Pro+Office, i5, 16GB RAM, 128SSD, 500HDD)",
+        "Cena (EUR)": 240.0,
+        "Komponente": {
+            "CPU": "I5 4590",
+            "GPU": "RTX 3060T",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-400-g2-mt-win11-pro-office-i5-16gb-ram-128ssd-500hdd-oglas-14172717"
+    },
+    {
+        "Naslov": "Mini PC i5-3330",
+        "Cena (EUR)": 80.0,
+        "Komponente": {
+            "CPU": "I5 3330",
+            "GPU": null,
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/mini-pc-i5-3330-oglas-10503436"
+    },
+    {
+        "Naslov": "Dell Optiplex 3020 MT - i5 / 16GB / 240 GB SSD komplet",
+        "Cena (EUR)": 75.0,
+        "Komponente": {
+            "CPU": "I5 4440",
+            "GPU": "GTX 1650",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/dell-optiplex-3020-mt-i5-16gb-256-gb-ssd-komplet-oglas-15341152"
+    },
+    {
+        "Naslov": "NUC 12 PRO Intel i7 32 GB RAM 1TB SSD V GARANCIJI Geekom IT12 2015",
+        "Cena (EUR)": 550.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 7535",
+            "GPU": "RX 6600",
+            "RAM": "16 GB DDR4",
+            "SSD/HDD": "32 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i7/nuc-12-pro-intel-i7-32-gb-ram-1tb-ssd-v-garanciji-geekom-oglas-15690792"
+    },
+    {
+        "Naslov": "Intel Core Ultra 5 235(24MB/14x),16GB DDR5,1TB NMVE,GTX970,WIN11",
+        "Cena (EUR)": 500.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX5060",
+            "RAM": "16GB DDR5",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/intel-core-ultra-5-235-24mb-14x-16gb-ddr5.1tb-nmve-gtx970-win11-oglas-15803081"
+    },
+    {
+        "Naslov": "GAMING PC / i5 8400 / GTX 1070 8GB / 32GB RAM / 250GB SSD / 1TB HDD",
+        "Cena (EUR)": 400.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": "GTX 1070",
+            "RAM": "32GB RAM",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/gaming-pc-i5-8400-gtx-1070-8gb-32gb-ram-250gb-ssd-1tb-hdd-oglas-15802988"
+    },
+    {
+        "Naslov": "Gaming / workstation PC Ryzen 9 5900X / RX 7900 GRE",
+        "Cena (EUR)": 990.0,
+        "Komponente": {
+            "CPU": "RYZEN 9 5900X",
+            "GPU": "RTX 4070",
+            "RAM": null,
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/gaming-workstation-pc-ryzen-9-5900x-rx-7900-gre-oglas-15802098"
+    },
+    {
+        "Naslov": "Računalnik HP ELITEDESK + 22 LCD monitor + oprema",
+        "Cena (EUR)": 100.0,
+        "Komponente": {
+            "CPU": "I3 3600",
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/racunalnik-hp-elitedesk-22-lcd-monitor-oprema-oglas-15802085"
+    },
+    {
+        "Naslov": "mozna menjava za ps5 in vr v2 ocala",
+        "Cena (EUR)": 950.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "RTX 4060",
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "4GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/mozna-menjava-ps5-in-vr-v2-ocala-oglas-15802009"
+    },
+    {
+        "Naslov": "Računalnik z veliko kapaciteto shranjevanja - 104Tb",
+        "Cena (EUR)": 3500.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 3060",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalnik-z-veliko-kapaciteto-shranjevanja-oglas-15251939"
+    },
+    {
+        "Naslov": "PC Intel i3-6100 3.7GHz, 8GB RAM, 240GB SSD, Nvidia Quadro K620",
+        "Cena (EUR)": 80.0,
+        "Komponente": {
+            "CPU": "I3 10100F",
+            "GPU": null,
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/pc-20-monitor-i3-6100-3.7ghz-8gb-ram-240gb-ssd-nvidia-q-k620-oglas-13134596"
+    },
+    {
+        "Naslov": "PC i3-10100 + 24\" monitor + Logitech tipkovnica + Razer miška",
+        "Cena (EUR)": 190.0,
+        "Komponente": {
+            "CPU": "I3 8100",
+            "GPU": "GTX 1650",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB M.2"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/pc-i3-10100-24-monitor-logitech-tipkovnica-razer-miska-oglas-15351180"
+    },
+    {
+        "Naslov": "Apple Imac 2013",
+        "Cena (EUR)": 300.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/apple-imac-2013-oglas-15314443"
+    },
+    {
+        "Naslov": "Andraž nad Polzelo 324",
+        "Cena (EUR)": 600.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 5500",
+            "GPU": "RTX 3060T",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "1000GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/andraz-nad-polzelo-324-oglas-15690868"
+    },
+    {
+        "Naslov": "Intel i5 Namizni računalnik Grafična RTX2060 DDR4 16 GB",
+        "Cena (EUR)": 450.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "RTX2060",
+            "RAM": "6GB DDR6",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/intel-i5-namizni-racunalnik-graficna-rtx2060-ddr4-16-gb-oglas-15724633"
+    },
+    {
+        "Naslov": "Namizni računalnik i5 / SSD /  Radeon HD 7870 / 8GB",
+        "Cena (EUR)": 120.0,
+        "Komponente": {
+            "CPU": "I5 13400F",
+            "GPU": "RTX 3080",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/namizni-racunalnik-i5-ssd-radeon-hd-7870-8gb-oglas-15801284"
+    },
+    {
+        "Naslov": "Namizni računalnik komplet – i5-4590 / 24 GB RAM / RX 570 / SSD / BitF",
+        "Cena (EUR)": 290.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 9800X",
+            "GPU": "RTX 5070",
+            "RAM": "24 GB DDR3",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/namizni-racunalnik-komplet-i5-4590-24-gb-ram-rx-570-ssd-bitf-oglas-15801263"
+    },
+    {
+        "Naslov": "HP workstation Z230 + WIN 10 Pro + 32GB RAM + 480GB SSD + 2TB SATA",
+        "Cena (EUR)": 180.0,
+        "Komponente": {
+            "CPU": "I5 4590",
+            "GPU": null,
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "480GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-workstation-z230-win-10-pro-32gb-2tb-nvme-480gb-sata-oglas-13920347"
+    },
+    {
+        "Naslov": "Macbook Air M4 16GB/256GB Midnight",
+        "Cena (EUR)": 800.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/macbook-air-m4-16gb-256gb-midnight-oglas-15801197"
+    },
+    {
+        "Naslov": "Apple iMac 27\" (2020) 5K, i5 3,3Ghz, 32Gb RAM, 512 SSD",
+        "Cena (EUR)": 998.9,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16 GB DDR3",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/apple-imac-27-2020-5k-i5-3.3ghz-32gb-ram-512-ssd-oglas-14423694"
+    },
+    {
+        "Naslov": "IBM Lenovo ThinkCentre A52,Pentium D 820 2.8GHz, 2GBDDR2,250GB,Win7x64",
+        "Cena (EUR)": 20.0,
+        "Komponente": {
+            "CPU": "I5 2500",
+            "GPU": null,
+            "RAM": "2GBDDR2",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/ibm-lenovo-thinkcentre-a52-pentium-d-820-2.8ghz-2gbddr2.250gb-win7x64-oglas-15801108"
+    },
+    {
+        "Naslov": "HP 260 G1 DM i3-4030U / 250GB SSD /  4GB / Win 11",
+        "Cena (EUR)": 99.99,
+        "Komponente": {
+            "CPU": "RYZEN 5 5600",
+            "GPU": "RTX 3060",
+            "RAM": "4GB DDR3",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/nettopi-namizni-racunalniki/hp-260-g1-dm-i3-4030u-250gb-ssd-4gb-win-11-oglas-15394604"
+    },
+    {
+        "Naslov": "Prodam računalnik i3 7100 / 4GB DDR4 / 250GB SSD",
+        "Cena (EUR)": 89.99,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600X",
+            "GPU": "GTX 1070",
+            "RAM": "4GB DDR4",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/prodam-racunalnik-i3-7100-8gb-ddr4-512gb-nvme-ssd-oglas-12457322"
+    },
+    {
+        "Naslov": "Ugoden Namizni računalnik Intel i3-4170 / 4GB / 250GB SSD",
+        "Cena (EUR)": 59.99,
+        "Komponente": {
+            "CPU": "I3 7100",
+            "GPU": null,
+            "RAM": "4GB DDR3",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/namizni-racunalnik-intel-i3-4170-4gb-ddr3-250-gb-ssd-intel-hd-oglas-11656834"
+    },
+    {
+        "Naslov": "Prodam računalnik i3-8100 / 4GB DDR4 / 512GB SSD",
+        "Cena (EUR)": 119.99,
+        "Komponente": {
+            "CPU": "I3 7100",
+            "GPU": null,
+            "RAM": "4GB DDR4",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/prodam-racunalnik-i3-8100-8gb-ddr4-512gb-nvme-ssd-oglas-11886013"
+    },
+    {
+        "Naslov": "Računalnik i5 - 3470",
+        "Cena (EUR)": 60.0,
+        "Komponente": {
+            "CPU": "I5 3470",
+            "GPU": null,
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/racunalnik-i5-3470-oglas-14633171"
+    },
+    {
+        "Naslov": "Namizni računalnik Dell OptiPlex 3060 SFF, i5-8500 / 8GB / 256SSD / WI",
+        "Cena (EUR)": 229.0,
+        "Komponente": {
+            "CPU": "I5 9600K",
+            "GPU": "RTX6000",
+            "RAM": "16 GB DDR5",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/namizni-racunalnik-dell-optiplex-3060-sff-i5-8500-8gb-256ssd-wi-oglas-15381573"
+    },
+    {
+        "Naslov": "Delovna postaja Lenovo Thinkstation P520 W-2123 / 16GB / 512SSD / QUAD",
+        "Cena (EUR)": 349.0,
+        "Komponente": {
+            "CPU": "I5 6600K",
+            "GPU": "GTX 1070",
+            "RAM": "16 GB RAM",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/delovna-postaja-lenovo-thinkstation-p520-w-2123-32gb-512ssd-quad-oglas-12884025"
+    },
+    {
+        "Naslov": "Gaming računalnik DELL Precision T3620 Xeon E3-1270v5 / 16GB / 256SSD",
+        "Cena (EUR)": 239.0,
+        "Komponente": {
+            "CPU": "RYZEN 3 4100",
+            "GPU": "RTX6000",
+            "RAM": "16 GB DDR5",
+            "SSD/HDD": "512 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/gaming-racunalnik-dell-precision-t3620-xeon-e3-1270v5-16gb-256ssd-oglas-15267416"
+    },
+    {
+        "Naslov": "Gaming računalnik DELL Precision T3620 Xeon E3-1270v5 / 16GB / 256SSD",
+        "Cena (EUR)": 229.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX6000",
+            "RAM": "16 GB DDR5",
+            "SSD/HDD": "512 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/gaming-racunalnik-dell-precision-t3620-xeon-e3-1270v5-16gb-256ssd-oglas-15223281"
+    },
+    {
+        "Naslov": "Delovna postaja Lenovo Thinkstation P320, Xeon E3-1220 v6 / 16GB / 256",
+        "Cena (EUR)": 249.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 1600",
+            "GPU": null,
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/delovna-postaja-lenovo-thinkstation-p320-xeon-e3-1220-v6-16gb-256-oglas-15579041"
+    },
+    {
+        "Naslov": "Namizni računalnik HP ProDesk 600 G5 SFF, i5-8400 / 16GB /  512SSD / b",
+        "Cena (EUR)": 299.0,
+        "Komponente": {
+            "CPU": "I37100",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "512GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/namizni-racunalnik-hp-prodesk-600-g5-sff-i5-8400-16gb-512ssd-b-oglas-15452182"
+    },
+    {
+        "Naslov": "Lenovo M93p SFF  4570 DDR3 16GB SSD 256 licenca Win",
+        "Cena (EUR)": 95.0,
+        "Komponente": {
+            "CPU": "I5 4560",
+            "GPU": null,
+            "RAM": "4GB DDR4",
+            "SSD/HDD": "16GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-m93p-sff-4570-ddr3-16gb-ssd-256-licenca-win-oglas-15212707"
+    },
+    {
+        "Naslov": "Delovna postaja HP Z420",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "I7 6700",
+            "GPU": "GTX 1070",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/delovna-postaja-hp-z420-oglas-13397507"
+    },
+    {
+        "Naslov": "Apple računalnik iMac 27\"",
+        "Cena (EUR)": 549.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16 GB DDR3",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/apple-racunalnik-imac-27-oglas-15365284"
+    },
+    {
+        "Naslov": "HP Mini računalnik ProDesk 600G4 i5 8gen SSD",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "I5 8500",
+            "GPU": null,
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "480GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-mini-racunalnik-elitedesk-800g4-i5-8gen-ssd-oglas-15414172"
+    },
+    {
+        "Naslov": "HP Mini računalnik ProDesk 600G3 i5 8gb ram",
+        "Cena (EUR)": 80.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": null,
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-mini-racunalnik-prodesk-600g3-i5-8gb-ram-oglas-15272992"
+    },
+    {
+        "Naslov": "HP Mini računalnik EliteDesk 800G2 i5 8gb ram",
+        "Cena (EUR)": 70.0,
+        "Komponente": {
+            "CPU": "I5 6500",
+            "GPU": null,
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-mini-racunalnik-elitedesk-800g2-i3-8gb-ram-oglas-15273001"
+    },
+    {
+        "Naslov": "Računalnik Dell i5 SSD",
+        "Cena (EUR)": 85.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/racunalnik-dell-i5-ssd-oglas-13831415"
+    },
+    {
+        "Naslov": "Gaming PC Ryzen",
+        "Cena (EUR)": 700.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 3800X",
+            "GPU": "RTX 3070",
+            "RAM": "16 GB DDR5",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/gaming-pc-namizni-racunalnik-oglas-15800313"
+    },
+    {
+        "Naslov": "Računalnik HP ProDesk 400 G6 SFF (i5-9500, 16Gb, 256Gb, NVIDIA K620)",
+        "Cena (EUR)": 180.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": null,
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256 GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/racunalnik-hp-prodesk-400-g6-sff-i5-9500-16gb-ram-256gb-sdd-k620-oglas-14961145"
+    },
+    {
+        "Naslov": "hišni računalnik dell",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": "I5 10500",
+            "GPU": null,
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/hisni-racunalnik-dell-oglas-12073928"
+    },
+    {
+        "Naslov": "ThinkCenter Lenovo Tiny",
+        "Cena (EUR)": 110.0,
+        "Komponente": {
+            "CPU": "I5 7400",
+            "GPU": "RX550",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/thinkcenter-lenovo-tiny-oglas-15799764"
+    },
+    {
+        "Naslov": "HP 800 G4 MINI i5-8500T / 8GB / 256GB SSD + Wi-Fi",
+        "Cena (EUR)": 279.0,
+        "Komponente": {
+            "CPU": "I37100",
+            "GPU": "RTX3000",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-800-g4-mini-i5-8500t-8gb-256gb-ssd-wi-fi-oglas-15180860"
+    },
+    {
+        "Naslov": "WINDOWS 11 Vrhunski računalnik z SSD diskom zelo tih, GT 630 2GB",
+        "Cena (EUR)": 59.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "GTX 1060",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/windows-11-vrhunski-racunalnik-z-ssd-diskom-zelo-tih-gt-630-2gb-oglas-14963447"
+    },
+    {
+        "Naslov": "Top Budget Gaming Računalnik, monitor, miška in tipkovnica",
+        "Cena (EUR)": 49.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": null,
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/top-budget-gaming-racunalnik-monitor-zvocniki-miska-in-tipkovnica-oglas-14962695"
+    },
+    {
+        "Naslov": "Vse IGRE lahko igrate na PC za 49€ + monitor + miska in tipkovnica",
+        "Cena (EUR)": 49.0,
+        "Komponente": {
+            "CPU": "I3 4170",
+            "GPU": "RTX 3060T",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/vse-igre-lahko-igrate-pc-49-monitor-miska-in-tipkovnica-oglas-14604684"
+    },
+    {
+        "Naslov": "Dark POWER Gaming Level 16GB rama WINDOWS 11",
+        "Cena (EUR)": 89.0,
+        "Komponente": {
+            "CPU": "I5 4570",
+            "GPU": "RTX 4060",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/dark-power-gaming-level-oglas-15457012"
+    },
+    {
+        "Naslov": "Komplet računalnik, monitor, miška vsi kabli, WI-FI Odličen računalnik",
+        "Cena (EUR)": 29.0,
+        "Komponente": {
+            "CPU": "I5 3470",
+            "GPU": "RX580",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/komplet-racunalnik-monitor-miska-vsi-kabli-wi-fi-odlicen-racunalnik-oglas-12834345"
+    },
+    {
+        "Naslov": "Najcenejši in najboljši računalnik AKCIJA",
+        "Cena (EUR)": 20.0,
+        "Komponente": {
+            "CPU": "I5 8500",
+            "GPU": "GTX 1070",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/najcenejsi-in-najboljsi-racunalnik-akcija-oglas-15351286"
+    },
+    {
+        "Naslov": "Windows 11 + SSD + Intel I5 + 8GB rama",
+        "Cena (EUR)": 49.0,
+        "Komponente": {
+            "CPU": "I5 3470",
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/windows-11-ssd-intel-i5-8gb-rama-oglas-15111462"
+    },
+    {
+        "Naslov": "WINDOWS 11 Vrhunski računalnik z SSD diskom zelo tih, WI-FI, GT 1030",
+        "Cena (EUR)": 79.0,
+        "Komponente": {
+            "CPU": "I5 6400",
+            "GPU": "RTX 3060T",
+            "RAM": "8GB RAM",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/windows-11-vrhunski-racunalnik-z-ssd-diskom-zelo-tih-wi-fi-gt-1030-oglas-14632699"
+    },
+    {
+        "Naslov": "Komplet računalnik za 40€ Najboljši nakup",
+        "Cena (EUR)": 30.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "4GB RAM",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core2/komplet-racunalnik-40-najboljsi-nakup-oglas-13165843"
+    },
+    {
+        "Naslov": "ASSASIN CORE ULTRA GAMING RGB",
+        "Cena (EUR)": 499.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 2700X",
+            "GPU": "RTX 2060",
+            "RAM": "16GB DDR5",
+            "SSD/HDD": "512GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/assasin-core-ultra-gaming-rgb-monitor-27-inch-rtx-oglas-15684037"
+    },
+    {
+        "Naslov": "WINDOWS 11 - Vrhunski Računalnik za 60€ , I5 proc, SSD, Geforce 8600GT",
+        "Cena (EUR)": 59.0,
+        "Komponente": {
+            "CPU": "I5 2500",
+            "GPU": null,
+            "RAM": "2GBDDR2",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/vrhunski-racunalnik-60-windows-11-i5-proc-ssd-geforce-8600gt-oglas-13823871"
+    },
+    {
+        "Naslov": "Apple iMac 2021 M1",
+        "Cena (EUR)": 890.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX3000",
+            "RAM": "16GB RAM",
+            "SSD/HDD": "512 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/apple-imac-2021-m1-oglas-15615262"
+    },
+    {
+        "Naslov": "National CF-1200 MSX (NTSC-J/110V) - za zbiratelje",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "12GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/national-cf-1200-msx-ntsc-j-110v-zbiratelje-oglas-3067162"
+    },
+    {
+        "Naslov": "GAMING PC / i7 6700K / GTX 1650 / 16GB RAM / 250GB SSD / 1000GB HDD",
+        "Cena (EUR)": 300.0,
+        "Komponente": {
+            "CPU": "I7 6700K",
+            "GPU": "GTX 1650",
+            "RAM": "16GB RAM",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i7/gaming-pc-i7-6700k-gtx-1650-16gb-ram-250gb-ssd-1000gb-hdd-oglas-15782120"
+    },
+    {
+        "Naslov": "Računalnik HP EliteDesk 800 G6 Tower | i7-10700 | Quadro P400 | W11P",
+        "Cena (EUR)": 499.0,
+        "Komponente": {
+            "CPU": "I5 10500",
+            "GPU": "GTX1060",
+            "RAM": "16 GB DDR4",
+            "SSD/HDD": "512 GB M.2"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/racunalnik-hp-elitedesk-800-g6-tower-i7-10700-quadro-p400-w11p-oglas-15798972"
+    },
+    {
+        "Naslov": "Mac mini M4 PRO 24 GB 512 SSD",
+        "Cena (EUR)": 1200.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "24 GB RAM",
+            "SSD/HDD": "512 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/mac-mini-m4-pro-24-gb-512-ssd-oglas-15753828"
+    },
+    {
+        "Naslov": "Računalnik i7 6700/ IGRE",
+        "Cena (EUR)": 279.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 8400",
+            "GPU": "RTX 3070",
+            "RAM": "16 GB DDR5",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/msi-namizni-racunalniki/racunalnik-i7-6700-igre-oglas-15722151"
+    },
+    {
+        "Naslov": "Računalnik",
+        "Cena (EUR)": 18.0,
+        "Komponente": {
+            "CPU": "I3 4130",
+            "GPU": null,
+            "RAM": "4GB DDR2",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core2/racunalnik-oglas-15383968"
+    },
+    {
+        "Naslov": "Gaming PC Fujitsu i7-4770 | RTX 3050 | 32GB RAM | SSD+2TB HDD",
+        "Cena (EUR)": 360.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 2700X",
+            "GPU": "RTX 3050",
+            "RAM": "32 GB DDR3",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/fujitsu-siemens-namizni-racunalniki/racunalnik-fujitsu-esprimo-p920-e85-i7-ssd-hdd-vga-w10pro-oglas-11908034"
+    },
+    {
+        "Naslov": "Gaming PC i7-4790K (do 4.4GHz) | RX 590 8GB | 16GB RAM | SSD+HDD",
+        "Cena (EUR)": 280.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 2700",
+            "GPU": "RTX 5070",
+            "RAM": "16 GB DDR3",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i7/stacionarni-racunalnik-i7-4790k-16gb-ram-240gb-ssd-1tb-hdd-rx590-oglas-11908097"
+    },
+    {
+        "Naslov": "NAMIZNI RAČUNALNIK ASUS I-5 windowes 10",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "I5 4590",
+            "GPU": "RTX 4080",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "65GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/asus-namizni-racunalniki/namizni-racunalnik-asus-5-windowes-10-oglas-15798691"
+    },
+    {
+        "Naslov": "Ryzen 5 3600 / RTX 3070  / 16 GB RAM / 500 GB SSD",
+        "Cena (EUR)": 650.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "RTX 3070",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/ryzen-5-3600-rtx-3070-16-gb-ram-500-gb-ssd-oglas-15717373"
+    },
+    {
+        "Naslov": "Namizni računalnik HP ElitDesk 800",
+        "Cena (EUR)": 160.0,
+        "Komponente": {
+            "CPU": "I5 10400F",
+            "GPU": "GTX1050",
+            "RAM": "8GB RAM",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/namizni-racunalnik-hp-elitdesk-800-oglas-15557811"
+    },
+    {
+        "Naslov": "Namizni računalnik i3 4130",
+        "Cena (EUR)": 60.0,
+        "Komponente": {
+            "CPU": "I3 4130",
+            "GPU": null,
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "120 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/namizni-racunalnik-i3-4130-oglas-11894105"
+    },
+    {
+        "Naslov": "Namizni računalnik Lenovo S510",
+        "Cena (EUR)": 90.0,
+        "Komponente": {
+            "CPU": "I3 6100",
+            "GPU": null,
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/namizni-racunalnik-lenovo-s510-oglas-15798597"
+    },
+    {
+        "Naslov": "Kista",
+        "Cena (EUR)": 490.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 5600",
+            "GPU": "RTX 4080",
+            "RAM": "16GB RAM",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/kista-oglas-15682438"
+    },
+    {
+        "Naslov": "FUJITSU računalnik ( INTEL ® PENTIUM ) - Microsoft WINDOWS + PROGRAMI",
+        "Cena (EUR)": 179.0,
+        "Komponente": {
+            "CPU": "I7 4770",
+            "GPU": "RTX 3050",
+            "RAM": "4GB DDR3",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/fujitsu-siemens-namizni-racunalniki/fujitsu-esprimo-racunalnik-intel-pentium-3.3ghz-oglas-2107154"
+    },
+    {
+        "Naslov": "osebni računalnik HP Compaq Elite E8200",
+        "Cena (EUR)": 60.0,
+        "Komponente": {
+            "CPU": "I5 4590",
+            "GPU": null,
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/osebni-racunalnik-hp-compaq-elite-e8200-oglas-15267160"
+    },
+    {
+        "Naslov": "Računalnik",
+        "Cena (EUR)": 35.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 7535",
+            "GPU": "RTX 4080",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/asus-namizni-racunalniki/domaci-medijski-streznik-oglas-12761735"
+    },
+    {
+        "Naslov": "Mini Stick PC ACEPC T6",
+        "Cena (EUR)": 60.0,
+        "Komponente": {
+            "CPU": "I5 6500",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-atom/mini-stick-pc-acepc-t6-oglas-15202006"
+    },
+    {
+        "Naslov": "Medion PC MT 22",
+        "Cena (EUR)": 50.0,
+        "Komponente": {
+            "CPU": "I3 10100F",
+            "GPU": null,
+            "RAM": "4GB DDR4",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/medion-pc-mt-22-oglas-15414531"
+    },
+    {
+        "Naslov": "HP Z1 G5 Tower Intel Core i7-9700, 16GB ram, 512NVMe, RTX2060",
+        "Cena (EUR)": 530.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX2060",
+            "RAM": "16 GB DDR4",
+            "SSD/HDD": "512 GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-z1-g5-tower-intel-core-i7-9700-16gb-ram-512nvme-rtx2060-oglas-15416308"
+    },
+    {
+        "Naslov": "Gaming pc",
+        "Cena (EUR)": 1800.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 7800X",
+            "GPU": "RTX 5070",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/gaming-pc-oglas-15798375"
+    },
+    {
+        "Naslov": "Lenovo M700 Gaming | E3-1230v5 | RX550 4GB | 12GB | 256GB SSD",
+        "Cena (EUR)": 140.0,
+        "Komponente": {
+            "CPU": "I5 7400",
+            "GPU": "RX550",
+            "RAM": "12GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-m700-gaming-e3-1230v5-rx550-4gb-12gb-256gb-ssd-oglas-15640635"
+    },
+    {
+        "Naslov": "Gaming PC RTX 3060 12GB / Ryzen 5600X / 32GB RAM / 3TB SSD",
+        "Cena (EUR)": 720.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 5600X",
+            "GPU": "RTX 3060",
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/gaming-pc-rtx-3060-12gb-ryzen-5600x-32gb-ram-3tb-ssd-oglas-15798267"
+    },
+    {
+        "Naslov": "PC Asus (Mini‑ITX,– i5‑7500T,12 GB RAM DDR4, SSD 240Gb,WI-fi,bluetooh",
+        "Cena (EUR)": 220.0,
+        "Komponente": {
+            "CPU": "RYZEN 3 4100",
+            "GPU": "RX 6500",
+            "RAM": "12 GB DDR4",
+            "SSD/HDD": "256GB M.2"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/pc-asus-mini-itx-i5-7500t-12-gb-ram-ddr4-ssd-240gb-wi-fi-bluetooh-oglas-15760811"
+    },
+    {
+        "Naslov": "Ryzen 7 7800x3d 9070XT 2Tb Ssd 32Gb Ddr5",
+        "Cena (EUR)": 1850.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 7800X",
+            "GPU": "RTX 2060",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/ryzen-7-7800x3d-9070xt-2tb-ssd-32gb-ddr5-oglas-15798128"
+    },
+    {
+        "Naslov": "Prodam ali Menjam: Gaming SETUP!! Računalnik, Miza, Stol...",
+        "Cena (EUR)": 620.0,
+        "Komponente": {
+            "CPU": "I7 7700",
+            "GPU": "RTX5060",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB M.2"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/prodam-gaming-setup-racunalnik-miza-stol-miska-tipkovnica-oglas-13880962"
+    },
+    {
+        "Naslov": "HP EliteDesk 800 G3 TWR 32GB",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": "GTX 1060",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-elitedesk-g3-800-twr-oglas-15797989"
+    },
+    {
+        "Naslov": "HP EliteDesk 800 G3 TWR 16GB",
+        "Cena (EUR)": 200.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": null,
+            "RAM": "16GB RAM",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-elitedesk-800-g3-twr-16gb-oglas-15797979"
+    },
+    {
+        "Naslov": "iMac 2020 27” Ret 5K: 8C i7 3.8GHz / 72GB RAM / 4TB SSD / 5500XT 8GB",
+        "Cena (EUR)": 950.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16 GB DDR3",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/imac-2020-27-ret-5k-8c-i7-3.8ghz-72gb-ram-4tb-ssd-5500xt-8gb-oglas-15797882"
+    },
+    {
+        "Naslov": "GAMING PC RYZEN 7 3700X / RTX 3080 / 1TB NVME",
+        "Cena (EUR)": 1050.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 3700X",
+            "GPU": "RTX 3080",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/gaming-pc-ryzen-3700x-rtx-3080-oglas-15718616"
+    },
+    {
+        "Naslov": "Gaming PC i7 4790, RX 6600",
+        "Cena (EUR)": 230.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 2700X",
+            "GPU": "RTX 3080",
+            "RAM": "16 GB DDR3",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i7/namizni-pc-i7-4790-rx-6600-oglas-15679533"
+    },
+    {
+        "Naslov": "Računalnik HP QC412EA#AKN",
+        "Cena (EUR)": 50.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "4 GB DDR3",
+            "SSD/HDD": "500 GB HDD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/racunalnik-hp-intel-i3-4gb-ram-320gb-disk-licencni-windows-10-oglas-12357529"
+    },
+    {
+        "Naslov": "Gaming Pc i7-13700kf,32gb ddr5,rx6950xt",
+        "Cena (EUR)": 1450.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 5600",
+            "GPU": "RTX 3060",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/gaming-pc-i7-13700kf-32gb-ddr5-rx6950xt-oglas-15797414"
+    },
+    {
+        "Naslov": "HP Probook 470 G3",
+        "Cena (EUR)": 95.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "6 GB RAM",
+            "SSD/HDD": "1 TB HDD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-probook-470-g3-oglas-15239881"
+    },
+    {
+        "Naslov": "Mali Računalnik aka Rasberry Pi",
+        "Cena (EUR)": 60.0,
+        "Komponente": {
+            "CPU": "CELERON 1",
+            "GPU": null,
+            "RAM": "4GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-celeron/mali-racunalnik-aka-rasberry-pi-oglas-15720065"
+    },
+    {
+        "Naslov": "Apple iMac Retina 27″ 2020 | i7 16GB 1TB Radeon Pro 5700",
+        "Cena (EUR)": 820.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/apple-imac-retina-27-2020-i7-16gb-1tb-radeon-pro-5700-oglas-15797171"
+    },
+    {
+        "Naslov": "Apple iMac Retina 27″ 2020 | i7 16GB 1TB Radeon Pro 5500 XT",
+        "Cena (EUR)": 810.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/apple-imac-retina-27-2020-i7-16gb-1tb-radeon-pro-5500-xt-oglas-15797098"
+    },
+    {
+        "Naslov": "FUJITSU računalnik ( INTEL ® PENTIUM ) - Microsoft WINDOWS + PROGRAMI",
+        "Cena (EUR)": 179.0,
+        "Komponente": {
+            "CPU": "I3 3240",
+            "GPU": "RTX 3050",
+            "RAM": "4GB DDR3",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/fujitsu-siemens-namizni-racunalniki/fujitsu-esprimo-racunalnik-intel-pentium-3.30-ghz-500-gb-oglas-4545335"
+    },
+    {
+        "Naslov": "Računalnik HP 24-e008ny AiO",
+        "Cena (EUR)": 330.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": "512 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/racunalnik-hp-24-e008ny-aio-oglas-8216970"
+    },
+    {
+        "Naslov": "Prodam racunalnik",
+        "Cena (EUR)": 35.0,
+        "Komponente": {
+            "CPU": "I7 6500",
+            "GPU": null,
+            "RAM": "4GB DDR4",
+            "SSD/HDD": "32 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/prodam-racunalnik-oglas-15797004"
+    },
+    {
+        "Naslov": "Gaming PC Intel Ultra 5 245KF - RTX 3070",
+        "Cena (EUR)": 965.0,
+        "Komponente": {
+            "CPU": "I5 14600K",
+            "GPU": "RTX 3070",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/gaming-pc-intel-ultra-5-245kf-rtx-3070-oglas-15796974"
+    },
+    {
+        "Naslov": "RGB Gamer R5 16GB RGB 256GB+500GB RTX 1650 4GB",
+        "Cena (EUR)": 400.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600X",
+            "GPU": "RTX 1650",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/rgb-gamer-r5-16gb-rgb-256gb-500gb-rtx-1650-4gb-oglas-15796653"
+    },
+    {
+        "Naslov": "iMac 21,5”(1920 x 1080)",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16 GB DDR3",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/imac-21.5-1920-x-1080-oglas-14609073"
+    },
+    {
+        "Naslov": "Lenovo Gaming IdeaCentre (i5,16GB,1TB,RTX 2060)",
+        "Cena (EUR)": 450.0,
+        "Komponente": {
+            "CPU": "I5 10400F",
+            "GPU": "RTX 2060",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "500GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-gaming-ideacentre-i5.16gb-1tb-rtx-2060-oglas-15630728"
+    },
+    {
+        "Naslov": "Fujitsu Siemens Esprimo P500 E85+",
+        "Cena (EUR)": 85.0,
+        "Komponente": {
+            "CPU": "I7 2600",
+            "GPU": "RTX 3050",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/fujitsu-siemens-namizni-racunalniki/fujitsu-siemens-esprimo-p500-e85-oglas-15796530"
+    },
+    {
+        "Naslov": "Intel i7 8700, 16gb ram, 1tb nvm disk",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 3080T",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/intel-i7-8700-16gb-ram-1tb-nvm-disk-oglas-15796441"
+    },
+    {
+        "Naslov": "Namizni racunalnik i5..6400",
+        "Cena (EUR)": 125.0,
+        "Komponente": {
+            "CPU": "I5 3450",
+            "GPU": "RX 570",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "128 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/namizni-racunalnik-i5-6400-oglas-15796435"
+    },
+    {
+        "Naslov": "Dell Optiplex 7010 i7 3770, 240gb SSD, 8gb DDR3",
+        "Cena (EUR)": 45.0,
+        "Komponente": {
+            "CPU": "I7 3770",
+            "GPU": "GTX 1650",
+            "RAM": "8GB DDR3",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/dell-optiplex-7010-i7-3770-240gb-ssd-8gb-ddr3-oglas-15796387"
+    },
+    {
+        "Naslov": "MAC mini A1103, tipkovnica, miška, vse v original embalaži",
+        "Cena (EUR)": 200.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/mac-mini-a1103-tipkovnica-miska-vse-v-original-embalazi-oglas-10664168"
+    },
+    {
+        "Naslov": "HP Z2 G4 i7 / 16GB / RTX 2060",
+        "Cena (EUR)": 725.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "RTX 2060",
+            "RAM": "16 GB DDR4",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-z2-g4-i7-16gb-rtx-2060-oglas-15164085"
+    },
+    {
+        "Naslov": "Laptop Lenovo ThinkPad L390 ODLIČEN!",
+        "Cena (EUR)": 240.0,
+        "Komponente": {
+            "CPU": "I5 7400",
+            "GPU": null,
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/laptop-lenovo-thinkpad-l390-odlicen-oglas-15796054"
+    },
+    {
+        "Naslov": "Apple iMac 27\" - i7 / 16GB / SSD",
+        "Cena (EUR)": 270.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16 GB DDR3",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/apple-imac-27-i7-16gb-ssd-oglas-15796046"
+    },
+    {
+        "Naslov": "Apple Mac Pro MacPro 3,1 - v okvari",
+        "Cena (EUR)": 120.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "6GB RAM",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/apple-mac-pro-macpro-3.1-v-okvari-oglas-8520789"
+    },
+    {
+        "Naslov": "Lenovo Thinkcentre M720s SFF i5-8500 / 16GB / 1TB SSD / + monitor",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": "I5 3470",
+            "GPU": "RTX 5090",
+            "RAM": "16GB DDR5",
+            "SSD/HDD": "256GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-thinkcentre-m720s-sff-i5-8500-16gb-1tb-ssd-monitor-oglas-15795894"
+    },
+    {
+        "Naslov": "AMD Ryzen 5 7600X Ryzen 7000 | AM5 | 6 Jedr 12 Niti | Do 5,3 GHz Boost",
+        "Cena (EUR)": 189.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 7600X",
+            "GPU": "RTX 3070",
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/amd-ryzen-5-7600x-ryzen-7000-am5-6-jedr-12-niti-5.3-ghz-boost-oglas-15795660"
+    },
+    {
+        "Naslov": "RAčUNALNIK XEON E5-2690, 24 GB, 250 GB SSD, DVDRW, RABLJEN",
+        "Cena (EUR)": 220.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 1600",
+            "GPU": "RTX 4090",
+            "RAM": "24 GB DDR3",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/racunalnik-xeon-e5-2690-24-gb-250-gb-ssd-dvdrw-rabljen-oglas-15795457"
+    },
+    {
+        "Naslov": "PC i5 14600kf DDR5 RTX3070",
+        "Cena (EUR)": 990.0,
+        "Komponente": {
+            "CPU": "I5 14600K",
+            "GPU": "RTX3070",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "250GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/pc-i5-14600kf-ddr5-rtx3070-oglas-15795403"
+    },
+    {
+        "Naslov": "MSI H81M-P33 / Intel i3 4170 / 8GB",
+        "Cena (EUR)": 30.0,
+        "Komponente": {
+            "CPU": "I3 4170",
+            "GPU": "RTX 4080",
+            "RAM": "4GB DDR4",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/msi-h81m-p33-intel-i3-4170-8gb-oglas-14936252"
+    },
+    {
+        "Naslov": "Dell OptiPlex 3050",
+        "Cena (EUR)": 75.0,
+        "Komponente": {
+            "CPU": "I7 4770",
+            "GPU": "GTX 1650",
+            "RAM": "16GB RAM",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/dell-namizni-racunalniki/2x-dell-optiplex-3050-oglas-15549543"
+    },
+    {
+        "Naslov": "Visoko zmogljiv računalnik Ryzen 5",
+        "Cena (EUR)": 500.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 4080",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/visoko-zmogljiv-racunalnik-ryzen-5-oglas-15794941"
+    },
+    {
+        "Naslov": "Ryzen 5 2600, 16GB DDR4, GTX 1060",
+        "Cena (EUR)": 300.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 4080",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/ryzen-5-2600-16gb-ddr4-gtx-1060-oglas-15794924"
+    },
+    {
+        "Naslov": "Namizni-stacionarni računalnik",
+        "Cena (EUR)": 100.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": "RTX 3050",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "65GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/asus-namizni-racunalniki/namizni-stacionarni-racunalnik-oglas-14393572"
+    },
+    {
+        "Naslov": "Gaming računalnik HP",
+        "Cena (EUR)": 500.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": null,
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/gaming-racunalnik-hp-oglas-15794660"
+    },
+    {
+        "Naslov": "Prodam novejši delujoč računalnik z Windowsi 11 in MS Office",
+        "Cena (EUR)": 50.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "4GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core2/prodam-kompleten-namizni-racunalnik-oglas-13405882"
+    },
+    {
+        "Naslov": "Vrhunski Vsestranski Gaming Računalnik",
+        "Cena (EUR)": 2100.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "RTX 5070",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/vrhunski-vsestranski-gaming-racunalnik-oglas-15794496"
+    },
+    {
+        "Naslov": "Pentium III (3) 500 MHz, 128 MB RAM, 40 GB disk, Windows 2000",
+        "Cena (EUR)": 65.0,
+        "Komponente": {
+            "CPU": "PENTIUM 1",
+            "GPU": null,
+            "RAM": "3GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-pentium/pentium-iii-3-500-mhz-128-mb-ram-40-gb-disk-windows-2000-oglas-15794480"
+    },
+    {
+        "Naslov": "Intel nettop NUC kit i37100U NUC7I3BNH / 12GB / 128GB SSD",
+        "Cena (EUR)": 175.0,
+        "Komponente": {
+            "CPU": "RYZEN 9 8945",
+            "GPU": "RTX 4070",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/intel-nettop-nuc-kit-i37100u-nuc7i3bnh-4gb-128gb-ssd-oglas-15389696"
+    },
+    {
+        "Naslov": "Prodam računalnik i5-9400 / 8GB DDR4 / 512GB SSD NVMe",
+        "Cena (EUR)": 215.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "GTX 1050T",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/prodam-racunalnik-i5-9400-8gb-ddr4-512gb-ssd-nvme-oglas-15794259"
+    },
+    {
+        "Naslov": "Prodam računalnik i3-9100F / 8GB DDR4 / 512GB SSD NVMe",
+        "Cena (EUR)": 185.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 5800X",
+            "GPU": "RTX3070",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/prodam-racunalnik-i3-9100f-8gb-ddr4-512gb-ssd-nvme-oglas-15794233"
+    },
+    {
+        "Naslov": "PCplus-Gamer R5-5600RX 1TB",
+        "Cena (EUR)": 800.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 5700X",
+            "GPU": "RTX 4060T",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "60GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/pcplus-gamer-r5-5600rx-1tb-oglas-15794132"
+    },
+    {
+        "Naslov": "Računalniški sistem Intel",
+        "Cena (EUR)": 330.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 7600X",
+            "GPU": "RTX 3070",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/racunalniski-sistem-intel-oglas-15793856"
+    },
+    {
+        "Naslov": "Mini računalnik - INTEL NUC i3",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "I3 5005",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "120 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/mini-racunalnik-intel-nuc-i3-oglas-12267237"
+    },
+    {
+        "Naslov": "Namizni računalnik Lenovo",
+        "Cena (EUR)": 100.0,
+        "Komponente": {
+            "CPU": "I5 9400F",
+            "GPU": "GTX 1050T",
+            "RAM": "8 GB DDR3",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/namizni-racunalnik-lenovo-oglas-14616203"
+    },
+    {
+        "Naslov": "iMac 27\" mid 2011",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "32 GB RAM",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/imac-27-mid-2011-oglas-12650262"
+    },
+    {
+        "Naslov": "Prodam računalnik Aero skupaj z monitorjem, miško in tipkovnico",
+        "Cena (EUR)": 290.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 7800X",
+            "GPU": "RX 6800",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/prodam-racunalnik-aero-skupaj-z-monitorjem-misko-in-tipkovnico-oglas-15793276"
+    },
+    {
+        "Naslov": "All in one računalnik Lenovo IdeaCentre 3",
+        "Cena (EUR)": 350.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": "GTX 1050",
+            "RAM": "16GB RAM",
+            "SSD/HDD": "8 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/all-in-one-racunalnik-lenovo-ideacentre-3-oglas-11567792"
+    },
+    {
+        "Naslov": "RAČUNALNIK ZX SPECTRUM",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 7800X",
+            "GPU": "RTX 3060",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalnik-zx-spectrum-oglas-15366506"
+    },
+    {
+        "Naslov": "Stacionarni računalnik",
+        "Cena (EUR)": 170.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 1600",
+            "GPU": "RTX 2060",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/stacionarni-racunalnik-oglas-15531347"
+    },
+    {
+        "Naslov": "Prenosnik Lenovo",
+        "Cena (EUR)": 1.0,
+        "Komponente": {
+            "CPU": "CELERON 2957",
+            "GPU": "RTX 2060",
+            "RAM": "4GB DDR3",
+            "SSD/HDD": "250GB HDD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/prenosnik-lenovo-oglas-15463448"
+    },
+    {
+        "Naslov": "HP 800 G2 i5-6500T SFF i5 / 8GB / 256 GB SSD",
+        "Cena (EUR)": 190.0,
+        "Komponente": {
+            "CPU": "I3 6100",
+            "GPU": null,
+            "RAM": "16 GB DDR5",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-800-g2-i5-6500t-sff-i5-8gb-256-gb-ssd-oglas-12206140"
+    },
+    {
+        "Naslov": "HP EliteDesk 800 G2 TWR (Samsung)",
+        "Cena (EUR)": 80.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": null,
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-elitedesk-g2-800-twr-samsung-oglas-15792521"
+    },
+    {
+        "Naslov": "HP ProDesk 400 G2 MT i5 / 8GB / 512 GB SSD + 1TB HDD",
+        "Cena (EUR)": 250.0,
+        "Komponente": {
+            "CPU": "PENTIUM 1",
+            "GPU": "RTX 3060T",
+            "RAM": "32GB RAM",
+            "SSD/HDD": "512 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-400-g2-mt-i5-8gb-512-gb-ssd-1tb-hdd-oglas-15614018"
+    },
+    {
+        "Naslov": "HP EliteDesk 800 G3 Micro i3-6100T 8GB 256 GB SSD",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "I37100",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-elitedesk-800-g3-micro-i3-6100t-8gb-256-gb-ssd-oglas-15297136"
+    },
+    {
+        "Naslov": "HP Compaq Pro 6300 SFF i5 / 8GB / 256 GB",
+        "Cena (EUR)": 100.0,
+        "Komponente": {
+            "CPU": "I5 6400",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-compaq-pro-6300-sff-i5-8gb-256-gb-oglas-14890650"
+    },
+    {
+        "Naslov": "Aple a-1312 27\"",
+        "Cena (EUR)": 50.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "4GB DDR2",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/aple-a-1312-27-oglas-1137261"
+    },
+    {
+        "Naslov": "HP Z8 G4 WORKSTATION – 2x Xeon Gold / 128GB RAM / NVMe – TOP za V-Ray,",
+        "Cena (EUR)": 1900.0,
+        "Komponente": {
+            "CPU": "I7 8700",
+            "GPU": "RTX 2060",
+            "RAM": "64 GB DDR4",
+            "SSD/HDD": "512 GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/delovna-postaja-hp-z8-g4-oglas-11637346"
+    },
+    {
+        "Naslov": "Kompaktni mini računalnik - Sapphire Edge HD4 C847",
+        "Cena (EUR)": 25.0,
+        "Komponente": {
+            "CPU": "I3 9100",
+            "GPU": null,
+            "RAM": "4 GB DDR3",
+            "SSD/HDD": "96 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-celeron/sapphire-edge-hd4-c847-kompaktni-mini-racunalnik-oglas-14943544"
+    },
+    {
+        "Naslov": "I3-8100/ 8 GB DDR4/SSD 250GB+500GB HDD/GT 1030  2 GB",
+        "Cena (EUR)": 160.0,
+        "Komponente": {
+            "CPU": "I3 7100",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "128 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/light-gaming-1080p-i3-8100-8-gb-ddr4-ssd-250gb-500gb-hdd-gt-1030-2gb-oglas-15624031"
+    },
+    {
+        "Naslov": "Računalnik  POS Terminal",
+        "Cena (EUR)": 110.0,
+        "Komponente": {
+            "CPU": "I3 8100",
+            "GPU": null,
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB M.2"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalnik-oglas-13027719"
+    },
+    {
+        "Naslov": "Gaming Računalnik MSI",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 2700",
+            "GPU": "GTX 1070",
+            "RAM": "24 GB RAM",
+            "SSD/HDD": "120 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/gaming-racunalnik-msi-oglas-15370401"
+    },
+    {
+        "Naslov": "Lenovo Tiny All in one računalnik in monitor v kompletu",
+        "Cena (EUR)": 550.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 7800X",
+            "GPU": "RTX 3060",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/lenovo-tiny-all-in-one-racunalnik-in-monitor-v-kompletu-oglas-15425488"
+    },
+    {
+        "Naslov": "Fujitsu Esprimo D958 E85+",
+        "Cena (EUR)": 120.0,
+        "Komponente": {
+            "CPU": "I5 8400",
+            "GPU": "RTX 3050",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/fujitsu-siemens-namizni-racunalniki/fujitsu-esprimo-d958-e85-oglas-15567847"
+    },
+    {
+        "Naslov": "Imac 27 2011",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16GB RAM",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/imac-27-2011-oglas-15541388"
+    },
+    {
+        "Naslov": "Lenovo L340 Gaming",
+        "Cena (EUR)": 260.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3550",
+            "GPU": "RTX 3070T",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "512 GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-l340-gaming-oglas-15745658"
+    },
+    {
+        "Naslov": "HP ProBook 640 G5",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "I5 6200",
+            "GPU": null,
+            "RAM": "16 GB RAM",
+            "SSD/HDD": "512 GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-probook-640-g5-oglas-15745654"
+    },
+    {
+        "Naslov": "PC računalnik, ekran Dell Ekran U2718Q IPS, tipkovnica miška",
+        "Cena (EUR)": 900.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 8745",
+            "GPU": "RTX 3070",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": "500GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/pc-racunalnik-ekran-dell-ekran-u2718q-ips-tipkovnica-miska-oglas-14363764"
+    },
+    {
+        "Naslov": "Namizni računalnik Intel Core i7 - 6700 CPU 3.40GHz",
+        "Cena (EUR)": 230.0,
+        "Komponente": {
+            "CPU": "I7 6700",
+            "GPU": "RTX 4060",
+            "RAM": "16 GB DDR4",
+            "SSD/HDD": "180GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i7/namizni-racunalnik-intel-core-i7-6700-cpu-3.40ghz-oglas-15703428"
+    },
+    {
+        "Naslov": "Namizni računalnik",
+        "Cena (EUR)": 30.0,
+        "Komponente": {
+            "CPU": "I5 3450",
+            "GPU": "RX6600X",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/namizni-racunalnik-oglas-15787025"
+    },
+    {
+        "Naslov": "HP EliteDesk 800 G2 TWR (Apacer)",
+        "Cena (EUR)": 100.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": null,
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-elitedesk-g2-800-twr-oglas-15790929"
+    },
+    {
+        "Naslov": "Eee pc laptop 10' lenovo15'",
+        "Cena (EUR)": 50.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "8GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-atom/eee-pc-laptop-10-oglas-15042135"
+    },
+    {
+        "Naslov": "Lenovo IdeaCentre 3 AIO 24\" AMD Ryzen, 16GB RAM, Radeon Vega, NVME SSD",
+        "Cena (EUR)": 320.0,
+        "Komponente": {
+            "CPU": "RYZEN 3 4300",
+            "GPU": null,
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "256GB NVME"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-ideacentre-3-aio-24-amd-ryzen-oglas-13977494"
+    },
+    {
+        "Naslov": "GAMING RAČUNALNIK – Ryzen 3 2300X / 16GB RAM / RX 570 4GB",
+        "Cena (EUR)": 190.0,
+        "Komponente": {
+            "CPU": "RYZEN 3 2300X",
+            "GPU": "RTX 3070",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/gaming-racunalnik-ryzen-3-2300x-16gb-ram-rx-570-4gb-oglas-15790492"
+    },
+    {
+        "Naslov": "Osebni računalnik",
+        "Cena (EUR)": 15.0,
+        "Komponente": {
+            "CPU": "I5 3470",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalniski-komplet-oglas-6772857"
+    },
+    {
+        "Naslov": "Intel nuc/intel i3 5005u/8gb/120gb ssd",
+        "Cena (EUR)": 75.0,
+        "Komponente": {
+            "CPU": "I3 5005",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "120GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i3/intel-nuc-intel-i3-5005u-8gb-120gb-ssd-oglas-15790219"
+    },
+    {
+        "Naslov": "HP ProDesk 600 G2 SFF I5 6400, 8 Gb RAM, 500 Gb HDD, WIN 10",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "I5 6400",
+            "GPU": "RX580",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-600-g2-sff-i5-6400-8-gb-ram-500-gb-hdd-win-10-oglas-11134855"
+    },
+    {
+        "Naslov": "HP PRODESK SFF I3 6100, 8gb RAM, 500gb HDD, DVD-RW, WIN 10",
+        "Cena (EUR)": 80.0,
+        "Komponente": {
+            "CPU": "I3 6100",
+            "GPU": null,
+            "RAM": "16 GB DDR5",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-sff-i3-6100-8gb-ram-500gb-hdd-dvd-rw-win-10-oglas-11134810"
+    },
+    {
+        "Naslov": "Računalniški komplet - računalnik, monitor, miška, tipkovnica, zvočnik",
+        "Cena (EUR)": 60.0,
+        "Komponente": {
+            "CPU": "I7 7700",
+            "GPU": "GTX 1650",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB M.2"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalniski-komplet-racunalnik-monitor-miska-tipkovnica-zvocnik-oglas-15627136"
+    },
+    {
+        "Naslov": "Gaming/workstation računalnik",
+        "Cena (EUR)": 300.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 1600",
+            "GPU": "RTX 5090",
+            "RAM": "2GBDDR2",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/gaming-workstation-racunalnik-oglas-8379764"
+    },
+    {
+        "Naslov": "Računalnik / Server xeon 8c 64gb",
+        "Cena (EUR)": 200.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 5600",
+            "GPU": "RTX 4090",
+            "RAM": "32GB DDR5",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalnik-server-oglas-14408685"
+    },
+    {
+        "Naslov": "Beelink mini pc Intel 16gb ram",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "I5 6500",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/nettopi-namizni-racunalniki/beelink-mini-pc-intel-16gb-ram-oglas-14908898"
+    },
+    {
+        "Naslov": "Gaming PC RTX 3080ti",
+        "Cena (EUR)": 1000.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 5600X",
+            "GPU": "RTX 3080T",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/gaming-pc-oglas-14616148"
+    },
+    {
+        "Naslov": "PC Xeon X5670 6c/12t, 16GB ram, Radeon HD 6670, 60gb ssd,",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "I5 12400F",
+            "GPU": "RTX 3070",
+            "RAM": "8GB DDR3",
+            "SSD/HDD": "60GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/pc-xeon-x5670-6c-12t-16gb-ram-radeon-hd-6670-60gb-ssd-1.5tb-hdd-oglas-14424495"
+    },
+    {
+        "Naslov": "PC Xeon E5-2650 v2 8core / 1060 6gb / 32gb ram",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "RTX 4090",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/pc-xeon-e5-2650-v2-8core-1060-6gb-32gb-ram-oglas-14434804"
+    },
+    {
+        "Naslov": "Server / AI Lab 128gb ram, rtx 4090, Xeon E5-2696 v3 18c/36t",
+        "Cena (EUR)": 3500.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 3600",
+            "GPU": "RTX 4090",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/server-ai-lab-128gb-ram-rtx-4090-oglas-14379630"
+    },
+    {
+        "Naslov": "Računalnik - RAČUNSKI STROJČEK, namizni kalkulator Casio z izpisom",
+        "Cena (EUR)": 55.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "12GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/racunalnik-racunski-strojcek-namizni-kalkulator-casio-z-izpisom-oglas-13066077"
+    },
+    {
+        "Naslov": "Gaming Računalnik I7 8700K 32GB  Rtx 4060 8gb 2TB ssd Ljubljana moste",
+        "Cena (EUR)": 750.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 4500",
+            "GPU": "RTX 4060",
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "180GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i7/gaming-racunalnik-i7-8700k-32gb-ram-1tb-ssd-ljubljana-moste-oglas-12694225"
+    },
+    {
+        "Naslov": "ITX Gaming PC Dan Case A4 SFX, 32GB RAM, 1TB NVME, Ryzen 5, RX5700",
+        "Cena (EUR)": 760.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 5600",
+            "GPU": "RTX 5060",
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-amd-ryzen/itx-gaming-pc-dan-case-a4-sfx-32gb-ram-2tb-ssd-ryzen-5-rx5700-oglas-15616581"
+    },
+    {
+        "Naslov": "Prodam gaming računalnik i5 4590, 12Gb ram, R9 270X Hawk, Asus Q87M-E",
+        "Cena (EUR)": 180.0,
+        "Komponente": {
+            "CPU": "I5 4590",
+            "GPU": "RTX 4060",
+            "RAM": "12 GB DDR3",
+            "SSD/HDD": "250 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/prodam-gaming-racunalnik-i5-4590-12gb-ram-r9-270x-hawk-asus-q87m-e-oglas-15789615"
+    },
+    {
+        "Naslov": "LENOVO ideacenter AIO 300-23ISU",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "I3 6100",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "120 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-ideacenter-aio-300-23isu-oglas-15112562"
+    },
+    {
+        "Naslov": "Najmočnejši in najhitrejši pc2 za 50€ z monitorjem tipkovnico in miško",
+        "Cena (EUR)": 49.0,
+        "Komponente": {
+            "CPU": "I5 4590",
+            "GPU": "GTX 1060",
+            "RAM": "16GB DDR5",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/najmocnejsi-in-najhitrejsi-pc2-50-z-monitorjem-tipkovnico-in-misko-oglas-15789426"
+    },
+    {
+        "Naslov": "Gaming namizni računalnik + monitor z vso opremo",
+        "Cena (EUR)": 950.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 4080",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "500 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/gaming-namizni-racunalnik-z-vso-opremo-oglas-15259523"
+    },
+    {
+        "Naslov": "Namizni računalnik I5 3450 CPU, SSD 111GB + HD 1TB",
+        "Cena (EUR)": 80.0,
+        "Komponente": {
+            "CPU": "I5 3450",
+            "GPU": "RTX 3080",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/namizni-racunalnik-i5-3450-cpu-ssd-111gb-hd-1tb-oglas-15268689"
+    },
+    {
+        "Naslov": "Računalnik Apple iMac 27', Late 2013",
+        "Cena (EUR)": 330.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "16GB RAM",
+            "SSD/HDD": "512GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/apple-namizni-racunalniki/racunalnik-apple-imac-27-late-2013-oglas-13542327"
+    },
+    {
+        "Naslov": "HP EliteDesk 800 G2 TWR (Intel)",
+        "Cena (EUR)": 100.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": "RTX5070",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "180GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-elitedesk-g2-800-twr-i5-16gb-960-oglas-15789183"
+    },
+    {
+        "Naslov": "Tadej",
+        "Cena (EUR)": 300.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 2600",
+            "GPU": "RTX 3060",
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/tadej-oglas-15789154"
+    },
+    {
+        "Naslov": "Najmočnejši in najhitrejši pc za 50€ z monitorjem tipkovnico in miško",
+        "Cena (EUR)": 49.0,
+        "Komponente": {
+            "CPU": "I5 4590",
+            "GPU": null,
+            "RAM": "16GB DDR5",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-core-i5/najmocnejsi-in-najhitrejsi-pc-50-z-monitorjem-tipkovnico-in-misko-oglas-15789103"
+    },
+    {
+        "Naslov": "HP 290 G1 - i5 7500, 8GB ram, Wifi, Windows 11",
+        "Cena (EUR)": 99.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-290-g1-mt-business-racunalnik-win-11-oglas-15646767"
+    },
+    {
+        "Naslov": "računalnik z monitorjem, miško in tipkovnico. (komplet oprema)",
+        "Cena (EUR)": 80.0,
+        "Komponente": {
+            "CPU": "I3 8100",
+            "GPU": "GTX 1650",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "224 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/racunalniski-kompleti/racunalnik-z-monitorjem-misko-in-tipkovnico-komplet-oprema-oglas-15788847"
+    },
+    {
+        "Naslov": "HP Prodesk mini PC racunalnik i5/ 8GB RAM/ SSD",
+        "Cena (EUR)": 150.0,
+        "Komponente": {
+            "CPU": "I5 6500",
+            "GPU": null,
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "256GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-prodesk-mini-pc-racunalnik-i5-8gb-ram-ssd-oglas-13761541"
+    },
+    {
+        "Naslov": "HP Z440 Intel 8-Core | 32GB RAM | 1TB SSD | Nvidia RTX 3060Ti",
+        "Cena (EUR)": 598.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 8400",
+            "GPU": "RTX 3060T",
+            "RAM": "32GB DDR4",
+            "SSD/HDD": "256 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-z440-intel-8-core-32gb-ddr4-1tb-ssd-nvidia-rtx-3060ti-oglas-15744226"
+    },
+    {
+        "Naslov": "HP ELITEDESK TOWER i5 *16GB RAM *SSD DISK",
+        "Cena (EUR)": 190.0,
+        "Komponente": {
+            "CPU": "I5 7500",
+            "GPU": null,
+            "RAM": "16GB DDR4",
+            "SSD/HDD": "75008GBSSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/osebni-racunalnik-hp-elitedesk-tower-i5-16gb-ram-ssd-disk-wifi-oglas-15545411"
+    },
+    {
+        "Naslov": "Namizni racunalnik hp s vsemi dodatki +dostavo",
+        "Cena (EUR)": 50.0,
+        "Komponente": {
+            "CPU": "I3 6100",
+            "GPU": "RTX5070",
+            "RAM": "8GB DDR4",
+            "SSD/HDD": "480GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/namizni-racunalnik-hp-vsemi-dodatki-dostavo-oglas-15375658"
+    },
+    {
+        "Naslov": "NOVO - Računalnik Intel CELERON 900 MHz - ( Prvi lastnik ) - Kot novo",
+        "Cena (EUR)": 130.0,
+        "Komponente": {
+            "CPU": "I5 4570",
+            "GPU": null,
+            "RAM": "4GB DDR3",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/procesor-intel-celeron/racunalnik-intel-celeron-900-mhz-oglas-10082775"
+    },
+    {
+        "Naslov": "Lenovo M910T | G4400T | 4GB | 250GB HDD",
+        "Cena (EUR)": 30.0,
+        "Komponente": {
+            "CPU": "I5 2500",
+            "GPU": "RTX 4050",
+            "RAM": "4GB DDR4",
+            "SSD/HDD": "16GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ibm-lenovo-namizni-racunalniki/lenovo-m910t-g4400t-4gb-250gb-hdd-oglas-15787829"
+    },
+    {
+        "Naslov": "Vintage računalnik Compaq Deskpro",
+        "Cena (EUR)": 59.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "8GB DDR3",
+            "SSD/HDD": "128GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/vintage-racunalnik-compaq-deskpro-oglas-14097814"
+    },
+    {
+        "Naslov": "Vintage star računalnik,cd Rom, disketnik, PC kišta,",
+        "Cena (EUR)": 39.0,
+        "Komponente": {
+            "CPU": null,
+            "GPU": null,
+            "RAM": "12GB RAM",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/vintage-star-racunalnik-cd-rom-disketnik-pc-kista-oglas-14106101"
+    },
+    {
+        "Naslov": "9600xt 14600kf gaming racunalnik",
+        "Cena (EUR)": 850.0,
+        "Komponente": {
+            "CPU": "RYZEN 7 5700X",
+            "GPU": "RTX 4070",
+            "RAM": "16GB RAM",
+            "SSD/HDD": "16GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/ostali-racunalniki/9600-xt-14600kf-gaming-racunalnik-oglas-15787751"
+    },
+    {
+        "Naslov": "Osebni računalnik Intel I3 Fujitsu Esprimo P500 E85+ SSD 240 nov",
+        "Cena (EUR)": 65.0,
+        "Komponente": {
+            "CPU": "I3 4130",
+            "GPU": "RTX 3050",
+            "RAM": "8 GB DDR4",
+            "SSD/HDD": "240GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/fujitsu-siemens-namizni-racunalniki/osebni-racunalnik-fujitsu-siemens-esprimo-p500-e85-oglas-10701792"
+    },
+    {
+        "Naslov": "Fujitsu miniaturni računalnik 4GB/128GB 2x RS-232",
+        "Cena (EUR)": 100.0,
+        "Komponente": {
+            "CPU": "I7 4770",
+            "GPU": null,
+            "RAM": "4GB DDR3",
+            "SSD/HDD": null
+        },
+        "Povezava": "https://www.bolha.com/fujitsu-siemens-namizni-racunalniki/fujitsu-futro-s900-miniaturni-racunalnik-win-10-opcija-oglas-596311"
+    },
+    {
+        "Naslov": "Hewlett-Packard HP Pro 3500 MT (Intel Core i3, 8GB RAM, SSD/HDD)",
+        "Cena (EUR)": 70.0,
+        "Komponente": {
+            "CPU": "RYZEN 5 1600X",
+            "GPU": "GTX 1070",
+            "RAM": "16GB DDR3",
+            "SSD/HDD": "240 GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hewlett-packard-hp-pro-3500-mt-intel-core-i3-8gb-ram-ssd-hdd-hdmi-oglas-10356133"
+    },
+    {
+        "Naslov": "HP EliteDesk 800 G2 TWR (4x)",
+        "Cena (EUR)": 30.0,
+        "Komponente": {
+            "CPU": "I7 4770",
+            "GPU": null,
+            "RAM": "10GB RAM",
+            "SSD/HDD": "480GB SSD"
+        },
+        "Povezava": "https://www.bolha.com/hp-compaq-namizni-racunalniki/hp-elitedesk-800-g2-twr-4x-oglas-15787510"
+    }
+]
