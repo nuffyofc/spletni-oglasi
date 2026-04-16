@@ -122,24 +122,32 @@
         </div>
     </div>
 
-    <script src="data.js"></script>
     <script>
-        console.log('pcData loaded:', typeof pcData, pcData ? pcData.length : 0);
-        
         let allData = [];
         
-        function init() {
+        async function init() {
             try {
-                allData = pcData || [];
-                console.log('Initial data:', allData.length);
+                const response = await fetch('gaming_pcs.json');
+                const raw = await response.json();
+                console.log('Loaded:', raw.length);
+                
+                allData = raw.map(item => ({
+                    naslov: item.Naslov,
+                    cena: item['Cena (EUR)'] || 0,
+                    cpu: item.Komponente?.CPU || '',
+                    gpu: item.Komponente?.GPU || '',
+                    ram: item.Komponente?.RAM || '',
+                    ssd: item.Komponente?.['SSD/HDD'] || '',
+                    link: item.Povezava || ''
+                })).filter(d => d.cena > 0);
+                
+                console.log('Processed:', allData.length);
                 
                 if (allData.length === 0) {
-                    document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Ni podatkov! Preveri console.</td></tr>';
+                    document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Ni podatkov!</td></tr>';
                     return;
                 }
                 
-                allData = allData.filter(d => d.cena > 0);
-                console.log('Filtered data:', allData.length);
                 populateFilters();
                 renderTable();
             } catch (e) {
