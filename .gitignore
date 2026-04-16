@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.ruff_cache/
+
+# Local data (optional - comment if you want to include)
+# gaming_pcs.json
+# gaming_pcs.xlsx
+# data.js
