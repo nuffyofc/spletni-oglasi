@@ -122,41 +122,22 @@
         </div>
     </div>
 
+    <script src="data_inline.js"></script>
     <script>
-        let allData = [];
+        let allData = pcData || [];
         
-        window.onload = function() {
-            console.log('Page loaded, fetching data...');
-            fetch('gaming_pcs.json')
-                .then(function(response) { return response.json(); })
-                .then(function(raw) {
-                    console.log('Loaded:', raw.length);
-                    allData = raw.map(function(item) {
-                        return {
-                            naslov: item.Naslov || '',
-                            cena: parseFloat(item['Cena (EUR)']) || 0,
-                            cpu: item.Komponente ? (item.Komponente.CPU || '') : '',
-                            gpu: item.Komponente ? (item.Komponente.GPU || '') : '',
-                            ram: item.Komponente ? (item.Komponente.RAM || '') : '',
-                            ssd: item.Komponente ? (item.Komponente['SSD/HDD'] || '') : '',
-                            link: item.Povezava || ''
-                        };
-                    }).filter(function(d) { return d.cena > 0; });
-                    
-                    console.log('Processed:', allData.length);
-                    
-                    if (allData.length === 0) {
-                        document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Ni podatkov!</td></tr>';
-                        return;
-                    }
-                    
-                    populateFilters();
-                    renderTable();
-                })
-                .catch(function(e) {
-                    console.error('Error:', e);
-                    document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Napaka: ' + e.message + '</td></tr>';
-                });
+        function init() {
+            console.log('Data loaded:', allData.length);
+            if (allData.length === 0) {
+                document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Ni podatkov!</td></tr>';
+                return;
+            }
+            allData = allData.filter(function(d) { return d.cena > 0; });
+            populateFilters();
+            renderTable();
+        }
+        
+        init();
         };
         
         function populateFilters() {
