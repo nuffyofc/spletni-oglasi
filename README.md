@@ -2,6 +2,10 @@
 
 Iskanje igričarskih računalnikov na Bolha.com z naprednim scrapingom in spletnim vmesnikom.
 
+## 🌐 Dostop
+
+**Live App:** https://ac-nine-ruddy.vercel.app
+
 ## Funkcionalnosti
 
 - 🔍 Iskanje po naslovu
@@ -45,7 +49,7 @@ vercel deploy
 
 ## Podatki
 
-Podatki so shranjeni v `gaming_pcs.json` (246 oglasov, 155 gaming PC z GPU).
+Podatki so shranjeni v `data_inline.js` (246 oglasov).
 
 ## License
 

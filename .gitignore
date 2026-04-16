@@ -18,7 +18,10 @@ Thumbs.db
 # Cache
 .ruff_cache/
 
-# Local data (optional - comment if you want to include)
-# gaming_pcs.json
-# gaming_pcs.xlsx
-# data.js
+# Vercel
+.vercel
+
+# Include data files for deployment
+gaming_pcs.json
+gaming_pcs.xlsx
+data_inline.js
