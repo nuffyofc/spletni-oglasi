@@ -125,36 +125,39 @@
     <script>
         let allData = [];
         
-        async function init() {
-            try {
-                const response = await fetch('gaming_pcs.json');
-                const raw = await response.json();
-                console.log('Loaded:', raw.length);
-                
-                allData = raw.map(item => ({
-                    naslov: item.Naslov,
-                    cena: item['Cena (EUR)'] || 0,
-                    cpu: item.Komponente?.CPU || '',
-                    gpu: item.Komponente?.GPU || '',
-                    ram: item.Komponente?.RAM || '',
-                    ssd: item.Komponente?.['SSD/HDD'] || '',
-                    link: item.Povezava || ''
-                })).filter(d => d.cena > 0);
-                
-                console.log('Processed:', allData.length);
-                
-                if (allData.length === 0) {
-                    document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Ni podatkov!</td></tr>';
-                    return;
-                }
-                
-                populateFilters();
-                renderTable();
-            } catch (e) {
-                console.error('Error:', e);
-                document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Napaka: ' + e.message + '</td></tr>';
-            }
-        }
+        window.onload = function() {
+            console.log('Page loaded, fetching data...');
+            fetch('gaming_pcs.json')
+                .then(function(response) { return response.json(); })
+                .then(function(raw) {
+                    console.log('Loaded:', raw.length);
+                    allData = raw.map(function(item) {
+                        return {
+                            naslov: item.Naslov || '',
+                            cena: parseFloat(item['Cena (EUR)']) || 0,
+                            cpu: item.Komponente ? (item.Komponente.CPU || '') : '',
+                            gpu: item.Komponente ? (item.Komponente.GPU || '') : '',
+                            ram: item.Komponente ? (item.Komponente.RAM || '') : '',
+                            ssd: item.Komponente ? (item.Komponente['SSD/HDD'] || '') : '',
+                            link: item.Povezava || ''
+                        };
+                    }).filter(function(d) { return d.cena > 0; });
+                    
+                    console.log('Processed:', allData.length);
+                    
+                    if (allData.length === 0) {
+                        document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Ni podatkov!</td></tr>';
+                        return;
+                    }
+                    
+                    populateFilters();
+                    renderTable();
+                })
+                .catch(function(e) {
+                    console.error('Error:', e);
+                    document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Napaka: ' + e.message + '</td></tr>';
+                });
+        };
         
         function populateFilters() {
             const gpus = [...new Set(allData.map(d => d.gpu).filter(g => g))].sort();
