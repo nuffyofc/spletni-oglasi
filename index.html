@@ -124,17 +124,28 @@
 
     <script src="data.js"></script>
     <script>
-        let allData = pcData || [];
+        console.log('pcData loaded:', typeof pcData, pcData ? pcData.length : 0);
+        
+        let allData = [];
         
         function init() {
-            if (allData.length === 0) {
-                document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Ni podatkov!</td></tr>';
-                return;
+            try {
+                allData = pcData || [];
+                console.log('Initial data:', allData.length);
+                
+                if (allData.length === 0) {
+                    document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Ni podatkov! Preveri console.</td></tr>';
+                    return;
+                }
+                
+                allData = allData.filter(d => d.cena > 0);
+                console.log('Filtered data:', allData.length);
+                populateFilters();
+                renderTable();
+            } catch (e) {
+                console.error('Error:', e);
+                document.getElementById('results').innerHTML = '<tr><td colspan="7" class="loading">Napaka: ' + e.message + '</td></tr>';
             }
-            
-            allData = allData.filter(d => d.cena > 0);
-            populateFilters();
-            renderTable();
         }
         
         function populateFilters() {
